@@ -1,11 +1,11 @@
 // Adapted from Adafruit tutorial
 // https://learn.adafruit.com/ir-sensor/making-an-intervalometer
 
-// --- 20230729
+// --- SCA 20230729
 // Sketch for Carrier A/C timer control, because the remote only have a 24h timer setting
 // Arduino Uno with IR LED, IR sensor, button+LED
 // IR codes captured by sketch ir_remote_decoder.ino
-// --- 20230826
+// --- SCA 20230826
 // add OFF command repeat
 
 
