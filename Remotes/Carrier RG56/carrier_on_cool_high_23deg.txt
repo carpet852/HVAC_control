@@ -1,0 +1,305 @@
+
+Received: 
+
+OFF 	ON
+240 usec, 4600 usec
+4460 usec, 600 usec
+1640 usec, 600 usec
+520 usec, 620 usec
+1620 usec, 600 usec
+1640 usec, 620 usec
+500 usec, 620 usec
+520 usec, 600 usec
+1640 usec, 600 usec
+520 usec, 600 usec
+520 usec, 620 usec
+1620 usec, 620 usec
+500 usec, 620 usec
+520 usec, 600 usec
+1640 usec, 600 usec
+1640 usec, 600 usec
+520 usec, 600 usec
+1640 usec, 600 usec
+520 usec, 620 usec
+520 usec, 600 usec
+1640 usec, 600 usec
+1640 usec, 600 usec
+1640 usec, 600 usec
+1640 usec, 600 usec
+1640 usec, 600 usec
+1640 usec, 600 usec
+1660 usec, 600 usec
+1640 usec, 600 usec
+500 usec, 620 usec
+520 usec, 600 usec
+520 usec, 620 usec
+500 usec, 620 usec
+500 usec, 620 usec
+520 usec, 600 usec
+520 usec, 600 usec
+1640 usec, 600 usec
+520 usec, 600 usec
+1640 usec, 620 usec
+500 usec, 620 usec
+520 usec, 600 usec
+520 usec, 600 usec
+520 usec, 620 usec
+1620 usec, 620 usec
+500 usec, 620 usec
+1640 usec, 600 usec
+520 usec, 600 usec
+1640 usec, 620 usec
+1620 usec, 620 usec
+1620 usec, 600 usec
+1640 usec, 560 usec
+5380 usec, 4580 usec
+4460 usec, 620 usec
+1620 usec, 620 usec
+500 usec, 620 usec
+1640 usec, 600 usec
+1640 usec, 600 usec
+520 usec, 600 usec
+520 usec, 600 usec
+1640 usec, 600 usec
+520 usec, 620 usec
+500 usec, 620 usec
+1640 usec, 600 usec
+520 usec, 600 usec
+520 usec, 620 usec
+1620 usec, 620 usec
+1620 usec, 620 usec
+500 usec, 620 usec
+1640 usec, 600 usec
+520 usec, 620 usec
+500 usec, 620 usec
+1620 usec, 620 usec
+1620 usec, 620 usec
+1620 usec, 620 usec
+1620 usec, 620 usec
+1640 usec, 600 usec
+1640 usec, 600 usec
+1640 usec, 600 usec
+1640 usec, 620 usec
+500 usec, 620 usec
+500 usec, 620 usec
+500 usec, 620 usec
+520 usec, 600 usec
+520 usec, 600 usec
+520 usec, 620 usec
+500 usec, 620 usec
+1620 usec, 620 usec
+520 usec, 600 usec
+1640 usec, 600 usec
+520 usec, 600 usec
+520 usec, 620 usec
+500 usec, 620 usec
+520 usec, 600 usec
+1640 usec, 600 usec
+520 usec, 620 usec
+1620 usec, 620 usec
+500 usec, 620 usec
+1640 usec, 600 usec
+1640 usec, 600 usec
+1640 usec, 600 usec
+1640 usec, 540 usec
+int IRsignal[] = {
+// ON, OFF 
+pulseIR(4600);
+delayMicroseconds(4460);
+pulseIR(600);
+delayMicroseconds(1640);
+pulseIR(600);
+delayMicroseconds(520);
+pulseIR(620);
+delayMicroseconds(1620);
+pulseIR(600);
+delayMicroseconds(1640);
+pulseIR(620);
+delayMicroseconds(500);
+pulseIR(620);
+delayMicroseconds(520);
+pulseIR(600);
+delayMicroseconds(1640);
+pulseIR(600);
+delayMicroseconds(520);
+pulseIR(600);
+delayMicroseconds(520);
+pulseIR(620);
+delayMicroseconds(1620);
+pulseIR(620);
+delayMicroseconds(500);
+pulseIR(620);
+delayMicroseconds(520);
+pulseIR(600);
+delayMicroseconds(1640);
+pulseIR(600);
+delayMicroseconds(1640);
+pulseIR(600);
+delayMicroseconds(520);
+pulseIR(600);
+delayMicroseconds(1640);
+pulseIR(600);
+delayMicroseconds(520);
+pulseIR(620);
+delayMicroseconds(520);
+pulseIR(600);
+delayMicroseconds(1640);
+pulseIR(600);
+delayMicroseconds(1640);
+pulseIR(600);
+delayMicroseconds(1640);
+pulseIR(600);
+delayMicroseconds(1640);
+pulseIR(600);
+delayMicroseconds(1640);
+pulseIR(600);
+delayMicroseconds(1640);
+pulseIR(600);
+delayMicroseconds(1660);
+pulseIR(600);
+delayMicroseconds(1640);
+pulseIR(600);
+delayMicroseconds(500);
+pulseIR(620);
+delayMicroseconds(520);
+pulseIR(600);
+delayMicroseconds(520);
+pulseIR(620);
+delayMicroseconds(500);
+pulseIR(620);
+delayMicroseconds(500);
+pulseIR(620);
+delayMicroseconds(520);
+pulseIR(600);
+delayMicroseconds(520);
+pulseIR(600);
+delayMicroseconds(1640);
+pulseIR(600);
+delayMicroseconds(520);
+pulseIR(600);
+delayMicroseconds(1640);
+pulseIR(620);
+delayMicroseconds(500);
+pulseIR(620);
+delayMicroseconds(520);
+pulseIR(600);
+delayMicroseconds(520);
+pulseIR(600);
+delayMicroseconds(520);
+pulseIR(620);
+delayMicroseconds(1620);
+pulseIR(620);
+delayMicroseconds(500);
+pulseIR(620);
+delayMicroseconds(1640);
+pulseIR(600);
+delayMicroseconds(520);
+pulseIR(600);
+delayMicroseconds(1640);
+pulseIR(620);
+delayMicroseconds(1620);
+pulseIR(620);
+delayMicroseconds(1620);
+pulseIR(600);
+delayMicroseconds(1640);
+pulseIR(560);
+delayMicroseconds(5380);
+pulseIR(4580);
+delayMicroseconds(4460);
+pulseIR(620);
+delayMicroseconds(1620);
+pulseIR(620);
+delayMicroseconds(500);
+pulseIR(620);
+delayMicroseconds(1640);
+pulseIR(600);
+delayMicroseconds(1640);
+pulseIR(600);
+delayMicroseconds(520);
+pulseIR(600);
+delayMicroseconds(520);
+pulseIR(600);
+delayMicroseconds(1640);
+pulseIR(600);
+delayMicroseconds(520);
+pulseIR(620);
+delayMicroseconds(500);
+pulseIR(620);
+delayMicroseconds(1640);
+pulseIR(600);
+delayMicroseconds(520);
+pulseIR(600);
+delayMicroseconds(520);
+pulseIR(620);
+delayMicroseconds(1620);
+pulseIR(620);
+delayMicroseconds(1620);
+pulseIR(620);
+delayMicroseconds(500);
+pulseIR(620);
+delayMicroseconds(1640);
+pulseIR(600);
+delayMicroseconds(520);
+pulseIR(620);
+delayMicroseconds(500);
+pulseIR(620);
+delayMicroseconds(1620);
+pulseIR(620);
+delayMicroseconds(1620);
+pulseIR(620);
+delayMicroseconds(1620);
+pulseIR(620);
+delayMicroseconds(1620);
+pulseIR(620);
+delayMicroseconds(1640);
+pulseIR(600);
+delayMicroseconds(1640);
+pulseIR(600);
+delayMicroseconds(1640);
+pulseIR(600);
+delayMicroseconds(1640);
+pulseIR(620);
+delayMicroseconds(500);
+pulseIR(620);
+delayMicroseconds(500);
+pulseIR(620);
+delayMicroseconds(500);
+pulseIR(620);
+delayMicroseconds(520);
+pulseIR(600);
+delayMicroseconds(520);
+pulseIR(600);
+delayMicroseconds(520);
+pulseIR(620);
+delayMicroseconds(500);
+pulseIR(620);
+delayMicroseconds(1620);
+pulseIR(620);
+delayMicroseconds(520);
+pulseIR(600);
+delayMicroseconds(1640);
+pulseIR(600);
+delayMicroseconds(520);
+pulseIR(600);
+delayMicroseconds(520);
+pulseIR(620);
+delayMicroseconds(500);
+pulseIR(620);
+delayMicroseconds(520);
+pulseIR(600);
+delayMicroseconds(1640);
+pulseIR(600);
+delayMicroseconds(520);
+pulseIR(620);
+delayMicroseconds(1620);
+pulseIR(620);
+delayMicroseconds(500);
+pulseIR(620);
+delayMicroseconds(1640);
+pulseIR(600);
+delayMicroseconds(1640);
+pulseIR(600);
+delayMicroseconds(1640);
+pulseIR(600);
+delayMicroseconds(1640);
+pulseIR(540);

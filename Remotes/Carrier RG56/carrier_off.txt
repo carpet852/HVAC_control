@@ -1,0 +1,509 @@
+
+19:58:50.526 -> 
+19:58:50.526 -> 
+Received: 
+19:58:50.560 -> 
+OFF 	ON
+19:58:50.560 -> 19832 usec, 4580 usec
+19:58:50.594 -> 4460 usec, 660 usec
+19:58:50.594 -> 1580 usec, 660 usec
+19:58:50.628 -> 460 usec, 640 usec
+19:58:50.662 -> 1600 usec, 640 usec
+19:58:50.662 -> 1600 usec, 660 usec
+19:58:50.695 -> 460 usec, 640 usec
+19:58:50.729 -> 500 usec, 620 usec
+19:58:50.729 -> 1620 usec, 620 usec
+19:58:50.763 -> 500 usec, 620 usec
+19:58:50.763 -> 500 usec, 640 usec
+19:58:50.797 -> 1600 usec, 640 usec
+19:58:50.831 -> 500 usec, 620 usec
+19:58:50.831 -> 500 usec, 660 usec
+19:58:50.865 -> 1580 usec, 660 usec
+19:58:50.900 -> 1580 usec, 660 usec
+19:58:50.900 -> 460 usec, 640 usec
+19:58:50.935 -> 1600 usec, 640 usec
+19:58:50.935 -> 500 usec, 620 usec
+19:58:50.968 -> 1620 usec, 640 usec
+19:58:51.003 -> 1600 usec, 620 usec
+19:58:51.003 -> 1620 usec, 620 usec
+19:58:51.038 -> 1620 usec, 660 usec
+19:58:51.072 -> 460 usec, 640 usec
+19:58:51.072 -> 1600 usec, 640 usec
+19:58:51.107 -> 1600 usec, 660 usec
+19:58:51.107 -> 1600 usec, 640 usec
+19:58:51.141 -> 480 usec, 620 usec
+19:58:51.174 -> 500 usec, 640 usec
+19:58:51.174 -> 480 usec, 660 usec
+19:58:51.209 -> 460 usec, 640 usec
+19:58:51.242 -> 1620 usec, 640 usec
+19:58:51.242 -> 460 usec, 640 usec
+19:58:51.275 -> 500 usec, 640 usec
+19:58:51.275 -> 1600 usec, 640 usec
+19:58:51.308 -> 1600 usec, 640 usec
+19:58:51.342 -> 1600 usec, 640 usec
+19:58:51.342 -> 500 usec, 620 usec
+19:58:51.377 -> 500 usec, 620 usec
+19:58:51.411 -> 500 usec, 620 usec
+19:58:51.411 -> 500 usec, 640 usec
+19:58:51.444 -> 480 usec, 640 usec
+19:58:51.444 -> 500 usec, 660 usec
+19:58:51.477 -> 460 usec, 640 usec
+19:58:51.511 -> 480 usec, 640 usec
+19:58:51.511 -> 1600 usec, 620 usec
+19:58:51.545 -> 1620 usec, 660 usec
+19:58:51.579 -> 1600 usec, 620 usec
+19:58:51.579 -> 1600 usec, 660 usec
+19:58:51.612 -> 1600 usec, 660 usec
+19:58:51.647 -> 5280 usec, 4600 usec
+19:58:51.647 -> 4460 usec, 640 usec
+19:58:51.681 -> 1580 usec, 660 usec
+19:58:51.681 -> 480 usec, 620 usec
+19:58:51.715 -> 1620 usec, 640 usec
+19:58:51.748 -> 1600 usec, 640 usec
+19:58:51.748 -> 480 usec, 640 usec
+19:58:51.782 -> 480 usec, 640 usec
+19:58:51.817 -> 1620 usec, 620 usec
+19:58:51.817 -> 500 usec, 660 usec
+19:58:51.852 -> 460 usec, 640 usec
+19:58:51.852 -> 1600 usec, 660 usec
+19:58:51.886 -> 480 usec, 620 usec
+19:58:51.921 -> 480 usec, 680 usec
+19:58:51.921 -> 1580 usec, 620 usec
+19:58:51.956 -> 1620 usec, 640 usec
+19:58:51.990 -> 480 usec, 640 usec
+19:58:51.990 -> 1600 usec, 640 usec
+19:58:52.023 -> 500 usec, 600 usec
+19:58:52.023 -> 1640 usec, 620 usec
+19:58:52.058 -> 1620 usec, 620 usec
+19:58:52.092 -> 1620 usec, 640 usec
+19:58:52.092 -> 1600 usec, 640 usec
+19:58:52.126 -> 480 usec, 640 usec
+19:58:52.160 -> 1600 usec, 640 usec
+19:58:52.160 -> 1620 usec, 640 usec
+19:58:52.195 -> 1600 usec, 640 usec
+19:58:52.230 -> 480 usec, 660 usec
+19:58:52.230 -> 460 usec, 640 usec
+19:58:52.264 -> 500 usec, 620 usec
+19:58:52.264 -> 500 usec, 620 usec
+19:58:52.299 -> 1620 usec, 640 usec
+19:58:52.333 -> 480 usec, 660 usec
+19:58:52.333 -> 460 usec, 640 usec
+19:58:52.367 -> 1620 usec, 640 usec
+19:58:52.367 -> 1600 usec, 640 usec
+19:58:52.400 -> 1600 usec, 620 usec
+19:58:52.434 -> 500 usec, 660 usec
+19:58:52.434 -> 460 usec, 640 usec
+19:58:52.468 -> 500 usec, 640 usec
+19:58:52.503 -> 480 usec, 620 usec
+19:58:52.503 -> 500 usec, 640 usec
+19:58:52.538 -> 480 usec, 640 usec
+19:58:52.538 -> 500 usec, 620 usec
+19:58:52.572 -> 500 usec, 620 usec
+19:58:52.606 -> 1620 usec, 640 usec
+19:58:52.606 -> 1600 usec, 640 usec
+19:58:52.640 -> 1600 usec, 640 usec
+19:58:52.640 -> 1600 usec, 620 usec
+19:58:52.674 -> 1640 usec, 620 usec
+19:58:52.709 -> int IRsignal[] = {
+19:58:52.709 -> // ON, OFF 
+19:58:52.743 -> pulseIR(4580);
+19:58:52.743 -> delayMicroseconds(4460);
+19:58:52.778 -> pulseIR(660);
+19:58:52.812 -> delayMicroseconds(1580);
+19:58:52.812 -> pulseIR(660);
+19:58:52.846 -> delayMicroseconds(460);
+19:58:52.846 -> pulseIR(640);
+19:58:52.881 -> delayMicroseconds(1600);
+19:58:52.914 -> pulseIR(640);
+19:58:52.914 -> delayMicroseconds(1600);
+19:58:52.948 -> pulseIR(660);
+19:58:52.948 -> delayMicroseconds(460);
+19:58:52.982 -> pulseIR(640);
+19:58:53.016 -> delayMicroseconds(500);
+19:58:53.016 -> pulseIR(620);
+19:58:53.049 -> delayMicroseconds(1620);
+19:58:53.084 -> pulseIR(620);
+19:58:53.084 -> delayMicroseconds(500);
+19:58:53.118 -> pulseIR(620);
+19:58:53.118 -> delayMicroseconds(500);
+19:58:53.152 -> pulseIR(640);
+19:58:53.186 -> delayMicroseconds(1600);
+19:58:53.186 -> pulseIR(640);
+19:58:53.220 -> delayMicroseconds(500);
+19:58:53.254 -> pulseIR(620);
+19:58:53.254 -> delayMicroseconds(500);
+19:58:53.287 -> pulseIR(660);
+19:58:53.287 -> delayMicroseconds(1580);
+19:58:53.321 -> pulseIR(660);
+19:58:53.355 -> delayMicroseconds(1580);
+19:58:53.355 -> pulseIR(660);
+19:58:53.389 -> delayMicroseconds(460);
+19:58:53.423 -> pulseIR(640);
+19:58:53.423 -> delayMicroseconds(1600);
+19:58:53.457 -> pulseIR(640);
+19:58:53.457 -> delayMicroseconds(500);
+19:58:53.492 -> pulseIR(620);
+19:58:53.492 -> delayMicroseconds(1620);
+19:58:53.527 -> pulseIR(640);
+19:58:53.561 -> delayMicroseconds(1600);
+19:58:53.561 -> pulseIR(620);
+19:58:53.595 -> delayMicroseconds(1620);
+19:58:53.629 -> pulseIR(620);
+19:58:53.629 -> delayMicroseconds(1620);
+19:58:53.662 -> pulseIR(660);
+19:58:53.696 -> delayMicroseconds(460);
+19:58:53.696 -> pulseIR(640);
+19:58:53.730 -> delayMicroseconds(1600);
+19:58:53.764 -> pulseIR(640);
+19:58:53.764 -> delayMicroseconds(1600);
+19:58:53.798 -> pulseIR(660);
+19:58:53.798 -> delayMicroseconds(1600);
+19:58:53.833 -> pulseIR(640);
+19:58:53.867 -> delayMicroseconds(480);
+19:58:53.867 -> pulseIR(620);
+19:58:53.902 -> delayMicroseconds(500);
+19:58:53.902 -> pulseIR(640);
+19:58:53.936 -> delayMicroseconds(480);
+19:58:53.970 -> pulseIR(660);
+19:58:53.970 -> delayMicroseconds(460);
+19:58:54.005 -> pulseIR(640);
+19:58:54.005 -> delayMicroseconds(1620);
+19:58:54.040 -> pulseIR(640);
+19:58:54.074 -> delayMicroseconds(460);
+19:58:54.074 -> pulseIR(640);
+19:58:54.108 -> delayMicroseconds(500);
+19:58:54.142 -> pulseIR(640);
+19:58:54.142 -> delayMicroseconds(1600);
+19:58:54.176 -> pulseIR(640);
+19:58:54.176 -> delayMicroseconds(1600);
+19:58:54.210 -> pulseIR(640);
+19:58:54.244 -> delayMicroseconds(1600);
+19:58:54.244 -> pulseIR(640);
+19:58:54.279 -> delayMicroseconds(500);
+19:58:54.313 -> pulseIR(620);
+19:58:54.313 -> delayMicroseconds(500);
+19:58:54.348 -> pulseIR(620);
+19:58:54.348 -> delayMicroseconds(500);
+19:58:54.382 -> pulseIR(620);
+19:58:54.382 -> delayMicroseconds(500);
+19:58:54.417 -> pulseIR(640);
+19:58:54.451 -> delayMicroseconds(480);
+19:58:54.451 -> pulseIR(640);
+19:58:54.485 -> delayMicroseconds(500);
+19:58:54.519 -> pulseIR(660);
+19:58:54.519 -> delayMicroseconds(460);
+19:58:54.554 -> pulseIR(640);
+19:58:54.554 -> delayMicroseconds(480);
+19:58:54.588 -> pulseIR(640);
+19:58:54.588 -> delayMicroseconds(1600);
+19:58:54.623 -> pulseIR(620);
+19:58:54.657 -> delayMicroseconds(1620);
+19:58:54.657 -> pulseIR(660);
+19:58:54.691 -> delayMicroseconds(1600);
+19:58:54.726 -> pulseIR(620);
+19:58:54.726 -> delayMicroseconds(1600);
+19:58:54.760 -> pulseIR(660);
+19:58:54.760 -> delayMicroseconds(1600);
+19:58:54.794 -> pulseIR(660);
+19:58:54.828 -> delayMicroseconds(5280);
+19:58:54.828 -> pulseIR(4600);
+19:58:54.862 -> delayMicroseconds(4460);
+19:58:54.896 -> pulseIR(640);
+19:58:54.896 -> delayMicroseconds(1580);
+19:58:54.930 -> pulseIR(660);
+19:58:54.930 -> delayMicroseconds(480);
+19:58:54.964 -> pulseIR(620);
+19:58:54.999 -> delayMicroseconds(1620);
+19:58:54.999 -> pulseIR(640);
+19:58:55.033 -> delayMicroseconds(1600);
+19:58:55.068 -> pulseIR(640);
+19:58:55.068 -> delayMicroseconds(480);
+19:58:55.102 -> pulseIR(640);
+19:58:55.102 -> delayMicroseconds(480);
+19:58:55.137 -> pulseIR(640);
+19:58:55.171 -> delayMicroseconds(1620);
+19:58:55.171 -> pulseIR(620);
+19:58:55.206 -> delayMicroseconds(500);
+19:58:55.241 -> pulseIR(660);
+19:58:55.241 -> delayMicroseconds(460);
+19:58:55.275 -> pulseIR(640);
+19:58:55.275 -> delayMicroseconds(1600);
+19:58:55.309 -> pulseIR(660);
+19:58:55.343 -> delayMicroseconds(480);
+19:58:55.343 -> pulseIR(620);
+19:58:55.378 -> delayMicroseconds(480);
+19:58:55.378 -> pulseIR(680);
+19:58:55.412 -> delayMicroseconds(1580);
+19:58:55.445 -> pulseIR(620);
+19:58:55.445 -> delayMicroseconds(1620);
+19:58:55.479 -> pulseIR(640);
+19:58:55.479 -> delayMicroseconds(480);
+19:58:55.514 -> pulseIR(640);
+19:58:55.548 -> delayMicroseconds(1600);
+19:58:55.548 -> pulseIR(640);
+19:58:55.582 -> delayMicroseconds(500);
+19:58:55.616 -> pulseIR(600);
+19:58:55.616 -> delayMicroseconds(1640);
+19:58:55.650 -> pulseIR(620);
+19:58:55.650 -> delayMicroseconds(1620);
+19:58:55.685 -> pulseIR(620);
+19:58:55.718 -> delayMicroseconds(1620);
+19:58:55.718 -> pulseIR(640);
+19:58:55.752 -> delayMicroseconds(1600);
+19:58:55.786 -> pulseIR(640);
+19:58:55.786 -> delayMicroseconds(480);
+19:58:55.819 -> pulseIR(640);
+19:58:55.819 -> delayMicroseconds(1600);
+19:58:55.853 -> pulseIR(640);
+19:58:55.887 -> delayMicroseconds(1620);
+19:58:55.887 -> pulseIR(640);
+19:58:55.922 -> delayMicroseconds(1600);
+19:58:55.955 -> pulseIR(640);
+19:58:55.955 -> delayMicroseconds(480);
+19:58:55.988 -> pulseIR(660);
+19:58:55.988 -> delayMicroseconds(460);
+19:58:56.022 -> pulseIR(640);
+19:58:56.055 -> delayMicroseconds(500);
+19:58:56.055 -> pulseIR(620);
+19:58:56.089 -> delayMicroseconds(500);
+19:58:56.123 -> pulseIR(620);
+19:58:56.123 -> delayMicroseconds(1620);
+19:58:56.157 -> pulseIR(640);
+19:58:56.157 -> delayMicroseconds(480);
+19:58:56.191 -> pulseIR(660);
+19:58:56.225 -> delayMicroseconds(460);
+19:58:56.225 -> pulseIR(640);
+19:58:56.260 -> delayMicroseconds(1620);
+19:58:56.294 -> pulseIR(640);
+19:58:56.294 -> delayMicroseconds(1600);
+19:58:56.328 -> pulseIR(640);
+19:58:56.328 -> delayMicroseconds(1600);
+19:58:56.363 -> pulseIR(620);
+19:58:56.363 -> delayMicroseconds(500);
+19:58:56.397 -> pulseIR(660);
+19:58:56.431 -> delayMicroseconds(460);
+19:58:56.465 -> pulseIR(640);
+19:58:56.465 -> delayMicroseconds(500);
+19:58:56.499 -> pulseIR(640);
+19:58:56.499 -> delayMicroseconds(480);
+19:58:56.533 -> pulseIR(620);
+19:58:56.533 -> delayMicroseconds(500);
+19:58:56.567 -> pulseIR(640);
+19:58:56.601 -> delayMicroseconds(480);
+19:58:56.601 -> pulseIR(640);
+19:58:56.634 -> delayMicroseconds(500);
+19:58:56.669 -> pulseIR(620);
+19:58:56.669 -> delayMicroseconds(500);
+19:58:56.703 -> pulseIR(620);
+19:58:56.703 -> delayMicroseconds(1620);
+19:58:56.737 -> pulseIR(640);
+19:58:56.771 -> delayMicroseconds(1600);
+19:58:56.771 -> pulseIR(640);
+19:58:56.804 -> delayMicroseconds(1600);
+19:58:56.839 -> pulseIR(640);
+19:58:56.839 -> delayMicroseconds(1600);
+19:58:56.874 -> pulseIR(620);
+19:58:56.874 -> delayMicroseconds(1640);
+19:58:56.908 -> pulseIR(620);
+
+
+
+pulseIR(4580);
+delayMicroseconds(4460);
+pulseIR(660);
+delayMicroseconds(1580);
+pulseIR(660);
+delayMicroseconds(460);
+pulseIR(640);
+delayMicroseconds(1600);
+pulseIR(640);
+delayMicroseconds(1600);
+pulseIR(660);
+delayMicroseconds(460);
+pulseIR(640);
+delayMicroseconds(500);
+pulseIR(620);
+delayMicroseconds(1620);
+pulseIR(620);
+delayMicroseconds(500);
+pulseIR(620);
+delayMicroseconds(500);
+pulseIR(640);
+delayMicroseconds(1600);
+pulseIR(640);
+delayMicroseconds(500);
+pulseIR(620);
+delayMicroseconds(500);
+pulseIR(660);
+delayMicroseconds(1580);
+pulseIR(660);
+delayMicroseconds(1580);
+pulseIR(660);
+delayMicroseconds(460);
+pulseIR(640);
+delayMicroseconds(1600);
+pulseIR(640);
+delayMicroseconds(500);
+pulseIR(620);
+delayMicroseconds(1620);
+pulseIR(640);
+delayMicroseconds(1600);
+pulseIR(620);
+delayMicroseconds(1620);
+pulseIR(620);
+delayMicroseconds(1620);
+pulseIR(660);
+delayMicroseconds(460);
+pulseIR(640);
+delayMicroseconds(1600);
+pulseIR(640);
+delayMicroseconds(1600);
+pulseIR(660);
+delayMicroseconds(1600);
+pulseIR(640);
+delayMicroseconds(480);
+pulseIR(620);
+delayMicroseconds(500);
+pulseIR(640);
+delayMicroseconds(480);
+pulseIR(660);
+delayMicroseconds(460);
+pulseIR(640);
+delayMicroseconds(1620);
+pulseIR(640);
+delayMicroseconds(460);
+pulseIR(640);
+delayMicroseconds(500);
+pulseIR(640);
+delayMicroseconds(1600);
+pulseIR(640);
+delayMicroseconds(1600);
+pulseIR(640);
+delayMicroseconds(1600);
+pulseIR(640);
+delayMicroseconds(500);
+pulseIR(620);
+delayMicroseconds(500);
+pulseIR(620);
+delayMicroseconds(500);
+pulseIR(620);
+delayMicroseconds(500);
+pulseIR(640);
+delayMicroseconds(480);
+pulseIR(640);
+delayMicroseconds(500);
+pulseIR(660);
+delayMicroseconds(460);
+pulseIR(640);
+delayMicroseconds(480);
+pulseIR(640);
+delayMicroseconds(1600);
+pulseIR(620);
+delayMicroseconds(1620);
+pulseIR(660);
+delayMicroseconds(1600);
+pulseIR(620);
+delayMicroseconds(1600);
+pulseIR(660);
+delayMicroseconds(1600);
+pulseIR(660);
+delayMicroseconds(5280);
+pulseIR(4600);
+delayMicroseconds(4460);
+pulseIR(640);
+delayMicroseconds(1580);
+pulseIR(660);
+delayMicroseconds(480);
+pulseIR(620);
+delayMicroseconds(1620);
+pulseIR(640);
+delayMicroseconds(1600);
+pulseIR(640);
+delayMicroseconds(480);
+pulseIR(640);
+delayMicroseconds(480);
+pulseIR(640);
+delayMicroseconds(1620);
+pulseIR(620);
+delayMicroseconds(500);
+pulseIR(660);
+delayMicroseconds(460);
+pulseIR(640);
+delayMicroseconds(1600);
+pulseIR(660);
+delayMicroseconds(480);
+pulseIR(620);
+delayMicroseconds(480);
+pulseIR(680);
+delayMicroseconds(1580);
+pulseIR(620);
+delayMicroseconds(1620);
+pulseIR(640);
+delayMicroseconds(480);
+pulseIR(640);
+delayMicroseconds(1600);
+pulseIR(640);
+delayMicroseconds(500);
+pulseIR(600);
+delayMicroseconds(1640);
+pulseIR(620);
+delayMicroseconds(1620);
+pulseIR(620);
+delayMicroseconds(1620);
+pulseIR(640);
+delayMicroseconds(1600);
+pulseIR(640);
+delayMicroseconds(480);
+pulseIR(640);
+delayMicroseconds(1600);
+pulseIR(640);
+delayMicroseconds(1620);
+pulseIR(640);
+delayMicroseconds(1600);
+pulseIR(640);
+delayMicroseconds(480);
+pulseIR(660);
+delayMicroseconds(460);
+pulseIR(640);
+delayMicroseconds(500);
+pulseIR(620);
+delayMicroseconds(500);
+pulseIR(620);
+delayMicroseconds(1620);
+pulseIR(640);
+delayMicroseconds(480);
+pulseIR(660);
+delayMicroseconds(460);
+pulseIR(640);
+delayMicroseconds(1620);
+pulseIR(640);
+delayMicroseconds(1600);
+pulseIR(640);
+delayMicroseconds(1600);
+pulseIR(620);
+delayMicroseconds(500);
+pulseIR(660);
+delayMicroseconds(460);
+pulseIR(640);
+delayMicroseconds(500);
+pulseIR(640);
+delayMicroseconds(480);
+pulseIR(620);
+delayMicroseconds(500);
+pulseIR(640);
+delayMicroseconds(480);
+pulseIR(640);
+delayMicroseconds(500);
+pulseIR(620);
+delayMicroseconds(500);
+pulseIR(620);
+delayMicroseconds(1620);
+pulseIR(640);
+delayMicroseconds(1600);
+pulseIR(640);
+delayMicroseconds(1600);
+pulseIR(640);
+delayMicroseconds(1600);
+pulseIR(620);
+delayMicroseconds(1640);
+pulseIR(620);
