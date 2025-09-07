@@ -35,5 +35,5 @@ Refer to the [schematic](https://github.com/carpet852/HVAC_control/blob/main/Har
 - IR diode 940nm: Vishay VSLB3940 (Mouser/Digikey)
 - transistor 2N2222 (Mouser/Digikey)
 
-## References
+## Links
 [^1]: https://learn.adafruit.com/ir-sensor/overview
