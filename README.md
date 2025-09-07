@@ -7,8 +7,8 @@ The AC remote control is too basic and does not have a timer/scheduler function.
 ## Arduino code
 The code is based on a Adafruit tutorial [^1].  
 There are 2 sketches:
-1. ir_remote_decoder.ino => to record the IR sequences directly from the remote control.
-2. ir_remote_on_off.ino => to control the AC unit using the recorded IR sequences.
+- ir_remote_decoder.ino => to record the IR sequences directly from the remote control.
+- ir_remote_on_off.ino => to control the AC unit using the recorded IR sequences.
 
 Paste the ON sequence in the function below:
 ```
