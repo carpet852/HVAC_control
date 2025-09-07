@@ -5,7 +5,7 @@ Use an Arduino board to control an AC unit while I am away from home.
 The AC remote control is too basic and does not have a timer/scheduler function.
 
 ## Arduino code
-The code is based on a Adafruit tutorial [^1].  
+The code is based on a tutorial from Adafruit [^1].  
 There are 2 sketches:
 - ir_remote_decoder.ino => to record the IR sequences directly from the remote control.
 - ir_remote_on_off.ino => to control the AC unit using the recorded IR sequences.
